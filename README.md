@@ -14,3 +14,4 @@ GitHub:https://github.com/jia110
 
 解压密码:jia110    
 Decompression password: jia110
+[![Page Views Count](https://badges.toozhao.com/badges/01F0YSGVZCGSDYX9RAEE2PMGBY/green.svg)](https://badges.toozhao.com/stats/01F0YSGVZCGSDYX9RAEE2PMGBY "Get your own page views count badge on badges.toozhao.com")
