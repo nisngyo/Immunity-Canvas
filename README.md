@@ -9,7 +9,6 @@ Integration: for windows, Linux and MacOS operating systems, there are hundreds 
 Automation: attack process automation, attack operation fool, have a certain foundation of security enthusiasts, a little mouse can complete an attack.
 For testing only, please do not use illegally
 
-QQ791586916
 GitHub:https://github.com/jia110
 
 解压密码:jia110    
